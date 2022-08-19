@@ -1,4 +1,4 @@
-# Tailwind, react-router-dom, gh-pages already installed
+## Tailwind, react-router-dom, gh-pages already installed
 
 
 ## For gh-pages:
