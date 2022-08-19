@@ -1,3 +1,5 @@
+### tailwind "^3.1.8" and react-router-dom "^6.3.0" included
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
