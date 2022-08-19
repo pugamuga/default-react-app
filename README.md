@@ -5,7 +5,7 @@ add in package.json: "homepage": "https://{github user name}.github.io/{repo nam
 next step:
 in terminal: git remote add origin https://{github user name}.github.io/{repo name}.git
 
-for deploying page: npm run deploy
+### for deploying page: npm run deploy
 
 # Getting Started with Create React App
 
