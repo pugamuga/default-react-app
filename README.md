@@ -1,5 +1,6 @@
 ## Tailwind, react-router-dom, gh-pages already installed
 
+### Added default NavBar and HeroIcons
 
 ## For gh-pages:
 
