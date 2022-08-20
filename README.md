@@ -1,6 +1,9 @@
 ## Tailwind, react-router-dom, gh-pages already installed
 
-Added default NavBar and HeroIcons
+- Added default NavBar and HeroIcons
+- Added cuctom fonts
+  1 step: in index.css add path like: @import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap');
+  2 step: in tailwind.config.js in fontFamaly add name and discription, like in "testFont"
 
 ## For gh-pages:
 
