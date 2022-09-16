@@ -14,3 +14,5 @@ next step:
 in terminal: git remote add origin https://{github user name}.github.io/{repo name}.git
 
 for deploying page: npm run deploy
+
+(name home page as {repo name})
